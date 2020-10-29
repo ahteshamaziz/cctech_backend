@@ -95,7 +95,7 @@ app.use(bodyParser.json());
 
 mongoose
   .connect(
-  'mongodb://3.91.64.118:27017/cctech',
+  'mongodb://localhost:27017/cctech',
 { useUnifiedTopology: true,
   useNewUrlParser: true,
   useUnifiedTopology: true }
