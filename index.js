@@ -40,8 +40,8 @@ app.use(imageRoutes);
 
 
 aws.config.update({
-    secretAccessKey:'AlJw9+5QrFxOVVl22f2t/49qw2NtzgFjNpHY5ev+',
-    accessKeyId:'AKIAJYWLKZUTXDVSHC3A',
+    secretAccessKey:'***********',
+    accessKeyId:'***************',
     region:'us-east-1'
 })
     
